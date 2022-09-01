@@ -45,7 +45,7 @@ function shownotes(){
     elem.innerHTML=html;
   }
   else{
-    elem.innerHTML=`nothing to show! "Pls add note`
+    elem.innerHTML=`Nothing to show! Use "Add a Note" section above to add notes.`
   }
 
 }
